@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programing\\C#\\tpmod08_1302220093\\tpmod08_1302220093\\tpmod08_1302220093.csproj",
+      "projectUniqueName": "C:\\Users\\RD FAISAL\\Source\\Repos\\xall-gitautoco\\TPMOD08KPL\\tpmod08_1302220093\\tpmod08_1302220093.csproj",
       "projectName": "tpmod08_1302220093",
-      "projectPath": "C:\\Programing\\C#\\tpmod08_1302220093\\tpmod08_1302220093\\tpmod08_1302220093.csproj",
+      "projectPath": "C:\\Users\\RD FAISAL\\Source\\Repos\\xall-gitautoco\\TPMOD08KPL\\tpmod08_1302220093\\tpmod08_1302220093.csproj",
       "packagesPath": "C:\\Users\\RD FAISAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Programing\\C#\\tpmod08_1302220093\\tpmod08_1302220093\\obj\\",
+      "outputPath": "C:\\Users\\RD FAISAL\\Source\\Repos\\xall-gitautoco\\TPMOD08KPL\\tpmod08_1302220093\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
